@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amber!
-- 👀 I’m interested in full-stack, mobile, and user interface and user experience development
-- 🌱 I’m currently learning front-end and kotlin
-- 💞️ I’m looking to collaborate on any cool mobile or web applications 
+- 👀 I’m interested in full-stack, cloud and AI
+- 🌱 I’m currently learning more about Cloud Technology, and ways to integrate AI
+- 💞️ I’m looking to collaborate on any cool web applications 
 - 📫 How to reach me is through LinkedIn: www.linkedin.com/in/amber-ali-54b9a7b2 
 
 <!---

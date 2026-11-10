@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amber!
-- 👀 I’m interested in full-stack development and AI/ML
-- 🌱 I’m currently learning more about Google cloud and generative AI, and how to develop apps with AI and ML tools 
-- 💞️ I’m looking to collaborate on any cool web applications, or any applications leveraging AI and ML 
+- 👀 My interests include full-stack development, data engineering and AI
+- 🌱 I’m currently learning more about the product lifecycle, and leveraging AI tools to build cool products
+- 💞️ I’m looking to collaborate on cool applications leveraging AI, or any data tools that organize data in better ways
 - 📫 Reach me through LinkedIn: www.linkedin.com/in/amber-ali-54b9a7b2 
 
 <!---
